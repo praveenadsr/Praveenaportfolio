@@ -1,38 +1,45 @@
-### Description
+# Praveenaportfolio
 
-A simple portfolio template for developer/designers built with React. 
+## How to Clone and Update This Repository
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### Clone the Repository
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+1. Open your terminal or command prompt.
+2. Run the following command:
+   ```sh
+   git clone https://github.com/praveenadsr/Praveenaportfolio.git
+   ```
+3. Change into the project directory:
+   ```sh
+   cd Praveenaportfolio
+   ```
 
-### Features
+### Update the Repository (Pull Latest Changes)
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
+1. Make sure you are inside the project directory:
+   ```sh
+   cd Praveenaportfolio
+   ```
+2. Pull the latest changes from GitHub:
+   ```sh
+   git pull origin main
+   ```
 
-### Setup
+### Push Your Changes (If You Have Write Access)
 
-Get the code
+1. Stage your changes:
+   ```sh
+   git add .
+   ```
+2. Commit your changes:
+   ```sh
+   git commit -m "Your commit message"
+   ```
+3. Push your changes:
+   ```sh
+   git push origin main
+   ```
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
+---
 
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
-
-### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+For any issues, please open an issue on the repository or contact the maintainer. 
